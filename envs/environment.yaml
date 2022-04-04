@@ -17,3 +17,4 @@ dependencies:
 
   - pip:
     - entsoe-py>=0.5.2
+    - powerplantmatching>=0.5.1
