@@ -1,0 +1,19 @@
+# SPDX-FileCopyrightText: : 2017-2020 The PyPSA-Eur Authors
+#
+# SPDX-License-Identifier: MIT
+
+name: vali
+channels:
+  - conda-forge
+dependencies:
+  - python>=3.8
+  - pip
+  - numpy
+  - pandas
+  - geopandas
+
+  # Keep in conda environment when calling ipython
+  - ipython
+
+  - pip:
+    - entsoe-py>=0.5.2
