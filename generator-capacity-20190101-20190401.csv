@@ -1,0 +1,52 @@
+,Bidding Zone,Installed Capacity [MW],Name,Production Type,Voltage Connection Level [kV]
+11WD8CHAR5X----K,10YDE-VE-------2,146,Charlottenburg,Fossil Gas,110
+11WD8LEIP5X----6,10YDE-VE-------2,167,HKW Nord,Fossil Gas,110
+11WD8DRES5X---PZ,10YDE-VE-------2,260,GTHKW Nossener Bruecke,Fossil Gas,110
+11WD8KLIN5X----0,10YDE-VE-------2,164,HKW Klingenberg,Fossil Gas,110
+11WD8MITT5G----0,10YDE-VE-------2,444,HKW Mitte,Fossil Gas,110
+11WD8LICH5G----1,10YDE-VE-------2,144,HKW Lichterfelde,Fossil Gas,110
+11WD7GARE5XHEKWQ,10YDE-RWENET---I,424,HERDECKE,Fossil Gas,110
+11WD7LUDW5GSUEDE,10YDE-RWENET---I,345,GuD Ludwigshafen Süd,Fossil Gas,110
+11WD7BISC5GKW23O,10YDE-RWENET---I,785,KW Mainz-Wiesbaden,Fossil Gas,110
+11WD7BRAU5G-KW-N,10YDE-RWENET---I,562,GuD Dormagen,Fossil Gas,110
+11WD7UCHT5XROSOK,10YDE-RWENET---I,125,Kraftwerk Römerbrücke,Fossil Gas,110
+11WD7NORF5G--KWG,10YDE-RWENET---I,1145,Kraftwerk Lausward,Fossil Gas,110
+11WD7KWKN1GBL203,10YDE-RWENET---I,426,Knapsack 2,Fossil Gas,380
+11WD7KWKN----KW1,10YDE-RWENET---I,784,Knapsack 1,Fossil Gas,380
+11WD7RHAU5G-3--3,10YDE-RWENET---I,274,HKW III,Fossil Gas,110
+11WD7LUDW2GA800M,10YDE-RWENET---I,412,GuD Ludwigshafen Mitte,Fossil Gas,220
+11WD7EMSL-G-KW-T,10YDE-RWENET---I,1820,Emsland,Fossil Gas,380
+11WD7BOLA--KWNIK,10YDE-RWENET---I,866,HKW Niehl,Fossil Gas,380
+11WD7STUM----KW9,10YDE-RWENET---I,850,KW Hamm-Uentrop,Fossil Gas,380
+11WD7FUEH5GMEKW7,10YDE-RWENET---I,110,HKW Merkenich,Fossil Gas,110
+11WD7GERS-X-KW-C,10YDE-RWENET---I,1948,Gersteinwerk,Fossil Gas,380
+11WD2BMIT0002731,10YDE-EON------1,176,KW Mittelsbueren,Fossil Gas,110
+11WD2PLAT000267Z,10YDE-EON------1,120,Kraftwerk Plattling,Fossil Gas,110
+11WD2GKBB000334V,10YDE-EON------1,450,GKB Mittelsbueren,Fossil Gas,110
+11WD2GEBE000177K,10YDE-EON------1,823,Franken I,Fossil Gas,110
+11WD2LIND5G----6,10YDE-EON------1,230,GKW Linden (GKL),Fossil Gas,110
+11WD2SUE1000099L,10YDE-EON------1,298,Sued GuD1,Fossil Gas,110
+11WD2HUKW000298J,10YDE-EON------1,321,Huntorf,Fossil Gas,220
+11WD2BUKW000310A,10YDE-EON------1,120,Burghausen_GT,Fossil Gas,110
+11WD2SRKW000345J,10YDE-EON------1,181,HKW-Nürnberg-Sandreuth,Fossil Gas,110
+11WD2HERR5GKW--1,10YDE-EON------1,100,KW Herrenhausen (KWH),Fossil Gas,110
+11WD2FFW-000203E,10YDE-EON------1,267,HKW West,Fossil Gas,110
+11WD2STAU0001800,10YDE-EON------1,1132,Staudinger,Fossil Gas,380
+11WD2IRSC000179N,10YDE-EON------1,1822,Irsching,Fossil Gas,380
+11WD2SUE2000103B,10YDE-EON------1,400,Sued GuD2,Fossil Gas,110
+14W-WGM-KW-----J,10YAT-APG------L,838,GDK-Mellach,Fossil Gas,380
+14WLSG-MITTE---U,10YAT-APG------L,216.8,FHKW Linz Mitte,Fossil Gas,110
+14W-KW-THE-EVN-7,10YAT-APG------L,755,Kraftwerk Theiß,Fossil Gas,110
+14WENERGIE--WT02,10YAT-APG------L,400,Kraftwerk Timelkam Gesamtanlage,Fossil Gas,110
+14WLSG-1SUED---5,10YAT-APG------L,158,FHKW Linz Süd,Fossil Gas,110
+14W-PROD-LAU---8,10YAT-APG------L,140,KW Leopoldau,Fossil Gas,380
+14W-KW-KO2-EVN-5,10YAT-APG------L,152,Kraftwerk Korneuburg,Fossil Gas,110
+14W-VOEST-KW---0,10YAT-APG------L,153,voestalpine KW Linz,Fossil Gas,110
+14W-PROD-DO----O,10YAT-APG------L,395,KW Donaustadt,Fossil Gas,380
+14W-PROD-SIM---P,10YAT-APG------L,1284.2,KW Simmering,Fossil Gas,380
+46WPU0000000062N,10YSE-1--------K,261,Rya KVV ,Fossil Gas,130
+46WPU00000000040,10YSE-1--------K,448,Öresundsverket CHP,Fossil Gas,130
+44W-T-YT-000007E,10YFI-1--------U,129,Naistenlahti 1,Fossil Gas,110
+44W-T-YT-000005I,10YFI-1--------U,142,Lielahti,Fossil Gas,110
+44W-T-YT-000010P,10YFI-1--------U,354,Suomenoja,Fossil Gas,110
+44W-T-YT-000013J,10YFI-1--------U,480,Vuosaari,Fossil Gas,110
