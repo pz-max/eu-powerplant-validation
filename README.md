@@ -2,7 +2,7 @@
 
 Content
 -------
-This repository contains:
+This repository contains 3 important scripts:
 -  data_validation.ipynb, which creates plots and stats
 -  download_powerplants.ipynb, which loads the European powerplantfleet with a tool called "powerplantmatching"
 -  entsoe_generation_data_request.ipynb, which calls ENTSO-E generation capacity and operation data from the official API
