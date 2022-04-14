@@ -14,8 +14,8 @@ Installation
 
 .../eu-powerplant-validation % conda activate vali
 
-TODO
-------
-- [ ]  Calculate capacity factors per plant (massive point plot/violin/boxpot, y-axis CF, x-axis years)
-- [ ]  Investigate any differences in operation comparing the years
-- [ ]  Answer. What share is must-run and what share are optional (per country)
+
+Available plots
+---------------
+
+<img src="https://user-images.githubusercontent.com/61968949/163377418-f96b39d3-0f38-461c-b718-bbb978c5997c.png" width="400" />
