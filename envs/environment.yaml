@@ -11,6 +11,7 @@ dependencies:
   - numpy
   - pandas
   - geopandas
+  - xarray
 
   # Keep in conda environment when calling ipython
   - ipython
